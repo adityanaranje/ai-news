@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-community
+requests
+python-dotenv
+ipykernel
+google-search-results
+langgraph
